@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashima Pillai</h1>
 <h3 align="center">Passionate Tech Explorer | An aspiring Software Engineer</h3>
 
+<img src="https://img.freepik.com/free-vector/laptop-smartphone-headphone-cartoon-icon-illustration-business-technology-icon-concept-isolated-flat-cartoon-style_138676-2139.jpg" alt="">
+
 - 🌱 I’m currently learning **DSA,WEB DEVELOPMENT**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,MERNSTACK,TAILWIND,BOOTSTRAP**
