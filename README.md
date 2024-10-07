@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA,WEB DEVELOPMENT**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,MERNSTACK,TAILWIND,BOOTSTRAP**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,BOOTSTRAP**
 
 - 📫 How to reach me **ashimapillai18@gmail.com**
 
